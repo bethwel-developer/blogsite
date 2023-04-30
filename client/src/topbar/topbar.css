@@ -1,0 +1,58 @@
+.top{
+height: 70px;
+display: flex;
+align-items: center;
+font-family: 'Josefin Sans', sans-serif;
+background-color: aliceblue;
+
+}
+
+.profilePic{
+  width: 1%;
+  cursor: pointer;
+}
+
+.topCenter{
+  flex: 3;
+  margin-left: 5px;
+}
+
+.navIcons{
+font-size: 1.5rem;
+margin-right:2rem ;
+cursor: pointer;
+}
+.profilePic{
+  width:60px ;
+  border-radius:60px;
+ object-fit: cover;
+
+}
+
+.navItem, .logoutItem{
+  display: inline-block;
+  justify-content: center;
+  margin-right: 1rem;
+  cursor: pointer;
+  font-weight: 300;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.logoutItem{
+  float: right;
+}
+.navItem:hover{
+  
+  border-bottom: 1px solid #444;
+}
+
+.fa-magnifying-glass{
+  cursor: pointer;
+  font-size: 1.4rem;
+  margin-bottom: 19px;
+  margin-left: 10px;
+  margin-right: 20px;
+ 
+}

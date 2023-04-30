@@ -1,0 +1,91 @@
+.setting{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.settingwrapper{
+  flex: 9;
+  margin-top: -3rem;
+  margin-left: 2rem;
+}
+
+.proficepicIcon {
+  font-size: 3rem;
+  display: flex;
+  border: 2px solid black;
+  border-radius: 50%;
+  background-color: wheat;
+  cursor: pointer;
+  margin-left: 3rem;
+  margin-right: 11px;
+}
+
+.choosefilePlace{
+  cursor: pointer;
+
+}
+
+
+
+.updateTitle{
+  display: flex;
+  font-size: 30px;
+  margin-bottom: 2px;
+  color: orange;
+
+}
+
+.deleteTitle{
+color: red;
+font-size: 20px;
+cursor: pointer;
+float: right;
+}
+
+.settingForm{
+  display: flex;
+  flex-direction: column;
+  
+}
+
+
+.settingForm>input{
+  color: gray;
+  height: 20px;
+  border: none;
+  border-bottom: 1px solid gray ;
+
+}
+
+.settingsubmit{
+  width: 100px;
+  align-self: center;
+  background-color:teal ;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+
+
+}
+
+.settingForm>label{
+margin-top:20px;
+font-size: 20px;
+}
+
+
+.profilepicSetting{
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.profilepicSetting >img{
+ width: 70px; 
+ height: 70px;
+ border-radius: 20px;
+ object-fit: cover;
+}
