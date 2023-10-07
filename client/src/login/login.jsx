@@ -9,10 +9,6 @@ function Login() {
    
     <div className='login'>
       
-       
-       
-        
-     
       <form action="" className="loginform">
       <span className="logintitle">Login</span>
         <label>Email</label>
