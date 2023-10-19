@@ -3,6 +3,7 @@ import "./setting.css"
 import Sidebar from '../sidebar/sidebar'
 
 function Settings() {
+  
   return (
     <div className='setting'>
       <div className="settingwrapper">
@@ -28,11 +29,11 @@ function Settings() {
         <label>password </label>
         <input type="text" placeholder='password'/>
         <button className="settingsubmit">update</button>
-
-        
       </form>
       </div>
+
     <Sidebar/>
+      
     </div>
   
   )
