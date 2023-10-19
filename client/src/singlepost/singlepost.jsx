@@ -3,6 +3,8 @@ import "./singlepost.css"
 function Singlepost() {
   return (
     <div className='singlePost'>
+
+      
       <div className="singlepostWrapper">
 
         
