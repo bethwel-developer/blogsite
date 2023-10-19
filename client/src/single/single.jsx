@@ -5,6 +5,7 @@ import Singlepost from '../singlepost/singlepost'
 
 function Single() {
   return (
+    
     <div className='single'>
       <Singlepost/>
       <Sidebar/>
