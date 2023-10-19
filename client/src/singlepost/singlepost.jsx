@@ -6,8 +6,6 @@ function Singlepost() {
 
       
       <div className="singlepostWrapper">
-
-        
         <img src='../imagenew5.jpg' alt="" className='singlepostImage'/>
         <h1 className="singlepostTitle">Lorem ipsum dolor, sit amet consectetur adipisicing elit.
         <div className="editings">
