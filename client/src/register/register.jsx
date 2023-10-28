@@ -8,9 +8,6 @@ function Register() {
    
     <div className='register'>
       
-       
-        
-     
       <form action="" className="registerform">
       <span className="registertitle">Register</span>
       <label>Username</label>
