@@ -3,6 +3,7 @@ import "./setting.css"
 import Sidebar from '../sidebar/sidebar'
 
 function Settings() {
+
   
   return (
     <div className='setting'>
