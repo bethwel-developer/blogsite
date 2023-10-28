@@ -1,6 +1,8 @@
 import React from 'react'
 import "./sidebar.css"
 
+
+
 function Sidebar() {
   return (
     <div className='sideBar'>
@@ -20,6 +22,8 @@ function Sidebar() {
           <li className="sideItems">cinema</li>
           <li className="sideItems">sport</li>
 
+
+          
         </ul>
         <div className="sidebarItem"></div>
         <span className="sidebarTitle">FOLLOW US</span>
