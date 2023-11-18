@@ -16,7 +16,6 @@ function Register() {
         <label>Password</label>
         <input type="password" name='password' className='registerinput'  placeholder="Enter password" /> 
         
-        
         <button className="loginbutton1">register</button>
         <span className='accountQ'>already have an account?</span> 
       
