@@ -21,7 +21,6 @@ function Sidebar() {
           <li className="sideItems">sport</li>
 
 
-          
         </ul>
         <div className="sidebarItem"></div>
         <span className="sidebarTitle">FOLLOW US</span>
