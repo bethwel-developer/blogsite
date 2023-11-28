@@ -13,8 +13,6 @@ function Header() {
       
       <img className="headerImage" src="./n7.jpg" alt="" />
       
-        
-
       </div>
 
   )
