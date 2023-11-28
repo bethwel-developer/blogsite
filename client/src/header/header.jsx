@@ -9,6 +9,7 @@ function Header() {
         <span >React & node</span> 
         <span className="headerTittlelower">Blog</span>
         </span>
+      
       <img className="headerImage" src="./n7.jpg" alt="" />
       
         
