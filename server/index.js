@@ -13,7 +13,7 @@ const mongoose = require('mongoose');
 
 }
  
-console.log(`connected to momgodb`)
+ console.log(`connected to momgodb`)
 
 
 app.listen(port, () => {
