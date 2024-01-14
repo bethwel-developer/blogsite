@@ -4,7 +4,7 @@ const port = 3000
 const dotenv= ('dotenv')
 const mongoose = require('mongoose');
 
- async function main() {
+  async function main() {
   await mongoose.connect(process.env.MONGO_URL, {
     useNewUrlParser:true,
     useUnifiedTopology:true,
