@@ -12,7 +12,7 @@ async function main() {
   })
 
 }
-
+ 
 console.log(`connected to momgodb`)
 
 
