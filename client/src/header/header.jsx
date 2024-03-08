@@ -5,8 +5,7 @@ import "./header.css"
 function Header() {
   
   return (
-    
-    <div className="header">
+      <div className="header">
      <span className="headerTitles">
         <span >React & node</span> 
         <span className="headerTittlelower">Blog</span>
